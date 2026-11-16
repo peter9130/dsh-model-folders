@@ -1,7 +1,6 @@
 {
   "name": "dsh-model-folders",
-  "version": "1.0.0",
-  "private": true,
+  "version": "1.0.1",
   "type": "module",
   "description": "Folder-grouped model picker for the DSH composer: one folder layer per provider or per model family.",
   "exports": {
@@ -47,5 +46,8 @@
     "model-picker",
     "model-folders",
     "web-ui"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
