@@ -1,0 +1,5 @@
+# Model folders bundle patch: one Host row carries the browser half declared
+# under `dsh.client` in package.json.
+- insert:
+    - id: model-folders
+      name: 'dsh-model-folders'

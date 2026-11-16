@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Model folders",
+    "description": "Replaces the composer model menu with a folder-first picker: one folder layer groups models by provider or by model family. A compact switch at the top of the model list chooses the grouping; the choice is remembered in this browser. Both modes read the same live model catalog and select through the session's own model directory, so switching remains one click. Off: the stock flat model menu returns."
+  }
+}
