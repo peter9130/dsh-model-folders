@@ -19,7 +19,7 @@
  * `--dsw-alias-*` theme tokens so light/dark theming follows the host.
  */
 window.__ModuleLoader__.load({
-  id: '@local/dsh-model-folders',
+  id: 'dsh-model-folders',
   factory(require) {
     const React = require('react')
     const { createPortal } = require('react-dom')
